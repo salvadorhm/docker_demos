@@ -4,7 +4,7 @@ This document provides a basic guide to essential Docker commands, categorized f
 
 ---
 
-![Docker Cheat Sheet](/images/docker.png)
+![Docker Cheat Sheet](/images/docker.svg)
 
 ## 📦 Containers
 
